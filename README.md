@@ -1,7 +1,5 @@
 # Main Information
 
-Directory Information:  
-- /css
-  - Global Project Stylesheets
-- /img
-  - Global Project Images
+## File Structure Syntax:
+- Stylesheet Directory ("css")
+- Images Directory ("img")
