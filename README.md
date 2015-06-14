@@ -1,4 +1,5 @@
-# main
-Main Projct Repository
+# Main Information
 
-TEST
+Directory Information:
+./css - Global Project Stylesheets
+./img - Global Project Images
