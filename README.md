@@ -1,5 +1,7 @@
 # Main Information
 
 Directory Information:  
-./css - Global Project Stylesheets  
-./img - Global Project Images  
+- /css
+  - Global Project Stylesheets
+- /img
+  - Global Project Images
