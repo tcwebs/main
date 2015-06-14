@@ -1,5 +1,6 @@
 # Main Information
 
 ## File Structure Syntax:
-- Stylesheet Directory ("css")
-- Images Directory ("img")
+Directory Purpose | Directory Name
+Stylesheets | 'css'
+Images | 'img'
