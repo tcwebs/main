@@ -3,6 +3,8 @@
 Index
 
 1. [Analytics](#analytics)
+2. [CSS](#css)
+3. [PHP](#php)
 
 ## Analytics
 
@@ -19,3 +21,7 @@ If you want analytics on a page, place this code before the closing head tag and
     appInsights.trackPageView();
  </script>
 ```
+
+## CSS
+
+## PHP
