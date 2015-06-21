@@ -1,7 +1,8 @@
 # Main Information
 
 Index
-1. [Analytics](#Analytics)
+
+1. [Analytics](#analytics)
 
 ## Analytics
 
