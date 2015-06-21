@@ -1,5 +1,8 @@
 # Main Information
 
+Index
+1. [Analytics](#Analytics)
+
 ## Analytics
 
 If you want analytics on a page, place this code before the closing head tag and before any other scripts:
