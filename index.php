@@ -18,8 +18,8 @@
   <body>
    <!--<iframe src="http://moocat.azurewebsites.net/store1/" height="99%" width="99%" seamless></iframe>-->
    <?php
-    $page = file_get_contents("http://moocat.azurewebsites.net/store1/"); 
-    echo "$page";
+    $page = file_get_contents("https://www.wikipedia.org/"); 
+    echo $page;
    ?>
   </body>
 </html>
