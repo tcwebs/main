@@ -17,6 +17,6 @@
   </head>
   <body>
     <iframe src="http://moocat.azurewebsites.net/store1/" height="99%" width="99%" seamless></iframe>
-    
+    <?php file_get_contents("http://moocat.azurewebsites.net/store1/"); ?>
   </body>
 </html>
