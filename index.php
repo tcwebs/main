@@ -18,9 +18,8 @@
   <body>
    <!--<iframe src="http://moocat.azurewebsites.net/store1/" height="99%" width="99%" seamless></iframe>  -->
    <?php
-    //$page = file_get_contents("http://moocat.azurewebsites.net/store1/"); 
-    //echo $page;
-    include("./store1/");
+    $page = file_get_contents("http://moocat.azurewebsites.net/1.php"); 
+    echo $page;
    ?>
   </body>
 </html>
