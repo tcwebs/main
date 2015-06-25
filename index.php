@@ -14,8 +14,7 @@
   </head>
   <body>
     <b> Moo </b>
-    
-    
+    <?php echo "iframe(src='http://moocat.azurewebsites.net/store1/')"; ?>
     
   </body>
 </html>
